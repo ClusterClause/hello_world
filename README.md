@@ -1,4 +1,4 @@
 # hello_world
-Hoi warldz
+Hello, World.
 
-My name is Roygbiv, and im here to say; My code is super garbage through night and day.
+My name is Bigelow-Martin, and im here to say; My code is super spaghet through night and day.
